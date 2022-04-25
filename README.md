@@ -1,5 +1,8 @@
+<!--
 ### Hi there 👋
-
+-->
+### The end belongs to the virtuous persons.
+### (Quran - Al-A'raf - 7:128)
 <!--
 **Ya-Zahra/Ya-Zahra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
