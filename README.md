@@ -1,7 +1,7 @@
 <!--
 ### Hi there 👋
 -->
-God's final revelation to mankind and the completion and confirmation of the previous heavenly books says:
+<!-- God's final revelation to mankind and the completion and confirmation of the previous heavenly books says: -->
 ### The end belongs to the virtuous persons.
 ### (Quran - Al-A'raf - 7:128)
 <!--
